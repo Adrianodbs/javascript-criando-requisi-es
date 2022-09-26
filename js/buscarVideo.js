@@ -1,4 +1,4 @@
-import { conectaApi } from './conectaAPI'
+import { conectaApi } from './conectaApi.js'
 import constroiCard from './mostrarVideos.js'
 
 async function buscarVideo(evento) {
@@ -7,6 +7,10 @@ async function buscarVideo(evento) {
   const busca = await conectaApi.buscaVideo(dadosDePesquisa)
 
   const lista = document.querySelector('[data-lista]')
+
+  while (lista.firstChild) {
+    lista.removeChild(lista.firstChild)
+  }
 
   busca.forEach(elemento =>
     lista.appendChild(
@@ -21,4 +25,5 @@ async function buscarVideo(evento) {
 }
 
 const botaoDePesquisa = document.querySelector('[data-botao-pesquisa]')
+
 botaoDePesquisa.addEventListener('click', evento => buscarVideo(evento))
