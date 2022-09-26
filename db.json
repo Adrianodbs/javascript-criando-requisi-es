@@ -62,6 +62,13 @@
       "url": "https://www.youtube.com/embed/z43rcfjXOxU",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 9
+    },
+    {
+      "titulo": "Next.js (Renderização React no Lado Servidor) // Dicionário do Programador",
+      "descricao": "7 mil visualizações",
+      "url": "https://www.youtube.com/embed/q_ZoX98uopM",
+      "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAABVlBMVEX///8AAAD8/Bf6FRYW1Br7Frv//xj/FhcX2hsW1xr/F8EX2xv/Fr7+Fr37+/vCwsLb29vv7+/p6en19fXPz8+zs7OgoKB/f38SrRUQmxN2dnbj4+OSkpIOiBFqampUVFQqKipGRkYUvheoqKgYGBiKioplZWW4uLjx8RZJSUnIyMgxMTEVyhkgICAVFQLPzxNubgqXlw6QDA3xFBVvCQqFCwx2Clg8PDxERAbDwxKKig0dHQPr6xWmpg+vrxBPTwcMDAHb2xSvDw/CEBHVEhM7BQWkDg5SBz2WDXALaA0GPQgKXAsMcw4xMQRgYAkjIwMnAwPgExR9fQtfCAllCUvXE6BIBgYsBCG5EIqpD37pFK16CgswBAQgAxgEKQUDGgMuLgRTUwgdAgNABjB0dAoUAQ9TBwdvClONDGnHEZQFKwVEBgYmAxwITgoRphQNfQ8DHQQPjxI/NWMLAAART0lEQVR4nO1daVvbOBeNCSRhX8JWoEDKllIoE2gHaFkLpQvQlu7bdKbLdJuZtu////JGkmXt8nUix+Z5cr5AbCfRiZZ77pEsZzJNNNFEE0000UT6sNCbdAnixWDJm026DHGib8qrYibpYsSGgUmPIOmCxITiiEcxnHRZ4kDPnMehJ+niuMewJ2Ai6fK4xtCsJ6E/6SI5Re8VmZ/njSRdKIcYXFf5VTGQdLlcgQRADcaSLpkbjM8b+FUxnnThHKB/zMzP8+aTLl7dKM7Z+FXRl3QJ60PPcAg/z5tKuox1YYYLgFdPNx683z29qlAcTLqUtaN3mpLYqKxs5XxsrVQ2BIalpMtZK4IA+HAbs2vxgVluP+QoLiZd1JrQd5lW3ybHjmO5ySryStKFrQEsAFZUepTkTkBxIenyRgULgFf3c0LFCdWZKz/wL5tOusTRwAXAjXKOsStvrWxurmyVGctcruJfeK78DC4Abr",
+      "id": 10
     }
   ]
 }
